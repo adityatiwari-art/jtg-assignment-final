@@ -63,6 +63,14 @@ align-self: main-start;
   color: grey;
 }
 
+
+#siteLogo {
+  width: 173px;
+  height: 35px;
+  align-self: center;
+}
+
+
 #logo {
     width: 173px;
     height: 35px;
@@ -233,11 +241,6 @@ margin: 10vh auto;
   margin:10vh auto;
 }
 
-
-#logo{
-  width: 193;
-  height: 63;
-}
 
 #partners-grid{
   display: grid;

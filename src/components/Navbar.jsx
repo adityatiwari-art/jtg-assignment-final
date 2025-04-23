@@ -16,7 +16,7 @@ function Navbar({onNavigate}) {
   </ul>
 
   <div className="absolute left-1/2 transform -translate-x-1/2">
-    <img id="logo" src="/assets/logo.png" alt="figma-logo" className="w-20" />
+    <img id="siteLogo" src="/assets/logo.png" alt="figma-logo" />
   </div>
   <Socials/>
   
